@@ -11,7 +11,7 @@
 
 # testing
 /coverage
-
+/server/src/test-prisma.ts
 # production
 /client/build
 
